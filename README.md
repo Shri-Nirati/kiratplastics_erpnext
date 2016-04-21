@@ -1,6 +1,6 @@
 ## Kirat Plastics ERPNext
 
-ERPNext extensions for Kirat Plastics Pvt. Ltd.
+ERPNext extensions for Kirat Plastics Pvt Ltd
 
 #### License
 
